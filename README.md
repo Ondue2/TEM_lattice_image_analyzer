@@ -25,7 +25,7 @@ Another useful application is to investigate atomic displacement from the symmet
 <img width="605" height="470" alt="image" src="https://github.com/user-attachments/assets/b80427b6-c8ca-4469-8a83-301d4fe43734" />
 
 
-A research using this analysis can be found at [here](https://arxiv.org/abs/2507.23068).
+A research using this analysis can be found in [here](https://arxiv.org/abs/2507.23068).
 
 
 Please see [here]() for the detailed workflow instruction.
