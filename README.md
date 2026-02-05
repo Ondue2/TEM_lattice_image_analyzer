@@ -10,7 +10,7 @@ This code uses two features for the analysis: peak finding using `skimage.featur
 
 You can use a combination of peak finding and Gaussian fitting effectively, which might allow analysis of subtle cases: weak atomic signals, spatially overlapping atomic signals, etc.
 
-The following images are the experimental TEM image and the simulated TEM image after the optimization process.
+The following images are examples of experimental TEM images and simulated TEM images after optimization.
 
 <img width="844" height="452" alt="image" src="https://github.com/user-attachments/assets/b47c4931-8b2b-4d23-aded-e9171071aef2" />
 
@@ -28,7 +28,7 @@ Another useful application is to investigate atomic displacement from the symmet
 A research using this analysis can be found in [here](https://arxiv.org/abs/2507.23068).
 
 
-Please see [here]() for the detailed workflow instruction.
+Please see [here](https://github.com/Ondue2/TEM_lattice_image_analyzer/wiki/Workflow-manual) for the detailed workflow instruction.
 
 
 
