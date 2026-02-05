@@ -31,6 +31,9 @@ A research using this analysis can be found in [here](https://arxiv.org/abs/2507
 Please see [here](https://github.com/Ondue2/TEM_lattice_image_analyzer/wiki/Workflow-manual) for the detailed workflow instruction.
 
 
+Please contact sangeon.lee@fsu.edu for questions.
+
+
 
 
 
